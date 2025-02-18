@@ -1,6 +1,6 @@
 - 👀 I’m interested in transforming data into actionable insights, risk analysis, supply chain optimization, and product analytics.
 - 
-- 🌱 I’m currently learning advanced SQL techniques, Python for data analysis, and data visualization with Tableau.
+- 🌱 I’m currently learning advanced SQL and Excel for data analysis including Tableau for data visualization.
 - 
 - 💞️ I’m looking to collaborate on data projects that focus on improving data quality, streamlining supply chains, and analyzing product trends.
 - 
